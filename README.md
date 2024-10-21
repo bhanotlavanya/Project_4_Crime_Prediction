@@ -46,3 +46,24 @@ The final processed DataFrame includes the following columns:
   - `pandas`
   - `requests`
 
+## References
+
+Breuss, M. (n.d.). *Python Folium: Create Web Maps From Your Data*. Realpython.com; Real Python. <https://realpython.com/python-folium-web-maps-from-data/#install-folium>
+
+Ekiz, A. (2023, February 12). *Creating Table of Contents in Jupyter Notebook*. Medium. <https://medium.com/@ahmetekiz/creating-table-of-contents-in-jupyter-notebook-52a7c696817f>
+
+pplonski. (2022, June 1). *Hide Code when exporting Jupyter notebook to HTML*. Stack Overflow. <https://stackoverflow.com/questions/49907455/hide-code-when-exporting-jupyter-notebook-to-html/72462601#72462601>
+
+Saturn Cloud. (2023, June 12). *Convert ipynb notebook to HTML in Google Colab | Saturn Cloud Blog*. Saturncloud.io. <https://saturncloud.io/blog/convert-ipynb-notebook-to-html-in-google-colab/>
+
+Scikit-learn. (2019). *scikit-learn: machine learning in Python*. Scikit-Learn.org. <https://scikit-learn.org/stable/>
+
+Social Development, Finance & Administration. (2022, April 12). *About Neighbourhoods*. City of Toronto Open Data; City of Toronto. <https://open.toronto.ca/dataset/neighbourhoods/www.toronto.ca/city-government/data-research-maps/neighbourhoods-communities/neighbourhood-profiles/about-toronto-neighbourhoods/www.toronto.ca/city-government/data-research-maps/neighbourhoods-communities/neighbourhood-profiles/about-toronto-neighbourhoods/>
+
+Social Development Finance & Administration, Research and Information Management Unit. (2022, April 12). *About Toronto Neighbourhoods*. City of Toronto; City of Toronto. <https://www.toronto.ca/city-government/data-research-maps/neighbourhoods-communities/neighbourhood-profiles/about-toronto-neighbourhoods/>
+
+spaghetticode. (2018, November 18). *python - Convert ipynb notebook to HTML in Google Colab* (zabop, Ed.). Stack Overflow. <https://stackoverflow.com/questions/53460051/convert-ipynb-notebook-to-html-in-google-colab>
+
+Toronto Police Service. (2023, March 27). *Major Crime Indicators Open Data*. Toronto Police Services Public Safety Data Portal; Toronto Police Services. <https://data.torontopolice.on.ca/datasets/TorontoPS::major-crime-indicators-open-data/about>
+
+Tum. (2012, August 14). *Markdown to create pages and table of contents?* (M. Mior, Ed.). Stack Overflow. <https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents/33433098#subparagraph1>
