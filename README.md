@@ -1,9 +1,8 @@
-
 # Crime Data Analysis Project
 
 ## Overview
 
-This project focuses on analyzing crime data from 2021 to 2024 using data obtained from the Major Crime Indicators (MCI) dataset in Toronto. The data is retrieved from an ArcGIS REST API, processed, and prepared for further analysis to understand crime patterns in the city. The analysis aims to examine different types of crimes, including Assault, Auto Theft, Break and Enter, Robbery, and Theft Over, along with various other attributes like occurrence date, location, and premises type.
+This project focuses on analyzing crime data from 2021 to 2024 using data obtained from the Major Crime Indicators (MCI) dataset in Toronto. The data is retrieved from an ArcGIS REST API, processed, and prepared for further analysis to understand crime patterns in the city. The analysis aims to examine different types of crimes, including Assault, Auto Theft, Break and Enter, Robbery, and Theft Over, along with various other attributes like occurrence date, location, and premises type. The ultimate goal is to help law enforcement agencies allocate resources more effectively and develop proactive strategies to prevent crime.
 
 ## Data Retrieval
 
@@ -47,4 +46,3 @@ The final processed DataFrame includes the following columns:
   - `pandas`
   - `requests`
 
-To help law enforcement agencies allocate resources more effectively and develop proactive strategies to prevent crime.
